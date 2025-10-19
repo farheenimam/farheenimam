@@ -10,6 +10,7 @@
 
 ---
 
+
 <div align="center">
 
 ### 💫 CS Student @ SZABIST | Building AI-Powered Solutions | Active Open Source Contributor
@@ -17,11 +18,13 @@
 </div>
 
 ```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  🎯 Transforming complex problems into intelligent,          ║
-║     scalable solutions through clean code and AI innovation  ║
-╚══════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════╗
+║  🎯 Transforming complex problems into intelligent, scalable   ║
+║     solutions through clean code and AI innovation             ║
+╚════════════════════════════════════════════════════════════════╝
 ```
+
+---
 
 ---
 

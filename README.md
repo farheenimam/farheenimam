@@ -62,7 +62,10 @@ I don’t just build projects — I build **systems that think, decide, and auto
 ### 🧠 AI, Agents & Automation
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-![OpenAI](https://img.shields.io/badge/LLM_OpenAI-000000?style=for-the-badge\&logo=openai)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge\&logo=openai)
+![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-F9D423?style=for-the-badge\&logo=huggingface)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-Automation-EA4C89?style=for-the-badge\&logo=n8n)
 ![ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge\&logo=google)
 
@@ -90,8 +93,6 @@ I don’t just build projects — I build **systems that think, decide, and auto
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql)
 
-
-
 </div>
 
 ---
@@ -109,7 +110,6 @@ I don’t just build projects — I build **systems that think, decide, and auto
 
 # 🚀 Selected Projects
 
-> *(Short, scannable highlights. I can expand each into a polished case study with architecture diagrams if you want.)*
 
 ### 🧠 **Agent‑Driven Job Recommender**
 

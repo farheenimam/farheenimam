@@ -177,8 +177,6 @@ farheen = {
 * Kept animated contribution grid & activity graph.
 * Included scannable badge row and GitHub stats tiles for quick visual impact.
 
-*(If you want extra animations: animated GIFs for each featured project, an embedded demo video, or an animated SVG architecture diagram — I can add those.)*
-
 ---
 
 # 🤝 Collaboration

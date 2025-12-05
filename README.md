@@ -33,10 +33,10 @@
 Hey there! I'm Farheen, a Computer Science student at SZABIST passionate about AI and backend development. I build scalable systems, create AI automations, and actively contribute to open-source projects.
 
 **What Drives Me:**
-- 🧠 **Continuous Learner** — Harvard CS50 & CS50AI certified
-- 🏗️ **Builder at Heart** — Creating solutions that make real impact
-- 🤖 **AI Innovator** — Integrating AI tools into practical applications
-- 📚 **Active Contributor** — Regular GitHub updates and open-source work
+- 🧠 **Continuous Learner** — Harvard CS50 & CS50AI certified.
+- 🏗️ **Builder at Heart** — Creating solutions that make real impact.
+- 🤖 **AI Innovator** — Integrating AI tools into practical applications.
+- 📚 **Active Contributor** — Regular GitHub updates and open-source work.
 
 ---
 
